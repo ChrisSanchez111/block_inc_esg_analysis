@@ -5,9 +5,9 @@ This project analyzes Block, Inc.’s 2023 emissions disclosures (Scope 1, 2, 3)
 📊 [View Tableau Visualization (https://public.tableau.com/app/profile/christopher.sanchez6090/viz/BlockInc_2023EmissionsBreakdownbyScope/Sheet1?publish=yes)
 
 📎 Files included:
-- ESG Climate Disclosure Report (.docx/.pdf)
-- Scope 1, 2, 3 Emissions Table (Excel)
-- Tableau screenshot
-- Tableau enissions breakdown by scope in TWBX. format
+- Block_Inc_ESG_Analysis_En-ROADS_Climate_Scenario.pdf – final writeup
+- Block_Inc_Scope_Emissions_2023_Table.xlsx – source data
+- Scope_Emissions_PieChart.png – key visualization screenshot
+- Block, Inc. 2023 Emissions Breakdown.twbx – Tableau workbook
 
-By Christopher Sanchez | MS Management, Fordham Gabelli School of Business
+By Christopher Sanchez | MS Management, Fordham Gabelli School of Business | BA Economics, Fordham University
