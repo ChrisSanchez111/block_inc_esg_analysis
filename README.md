@@ -10,4 +10,7 @@ This project analyzes Block, Inc.’s 2023 emissions disclosures (Scope 1, 2, 3)
 - Scope_Emissions_PieChart.png – key visualization screenshot
 - Block, Inc. 2023 Emissions Breakdown.twbx – Tableau workbook
 
+# Topics
+ESG · Climate Risk · Tableau · Emissions · En-ROADS · SEC Disclosures · Bitcoin Energy Use · CDP · Sustainability Reporting
+
 By Christopher Sanchez | MS Management, Fordham Gabelli School of Business | BA Economics, Fordham University
